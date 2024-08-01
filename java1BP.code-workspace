@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "java1BP",
+			"path": "../../java1BP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java1BP",
+		"liveServer.settings.port": 5501
+	}
+}
